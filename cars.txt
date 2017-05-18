@@ -5,4 +5,8 @@ TOYOTA TURENO GT-APEX(AE86)
 Mazda RX7-FC3S
 MazdaEfiniRX-7(FD-3S)
 >>>>>>>>> local version
+<<<<<<< HEAD
 來互相傷害阿
+=======
+衝突測試
+>>>>>>> 2b8135d301aca4c1172a7002f3b157f030bf9dea
